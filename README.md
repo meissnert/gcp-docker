@@ -1,2 +1,2 @@
-# gpc-docker
-Docker Image for Globus Personel Connect Client
+# gcp-docker
+Docker Image for Globus Connect Personal Client
