@@ -1,7 +1,7 @@
 # gcp-docker
 Docker Image for Globus Connect Personal Client
 
-# Running GCP client on Synology NAS:
+### Running GCP client on Synology NAS:
 
 1) Install the Docker app on the Synology drive 
 
